@@ -1,6 +1,10 @@
 # RubiksSimulator
 A basic move simulator in Python3.
 
+# How to build the simulator
+
+1. Clone the GitHub repository either online or through command line.
+
 # How to use the simulator
 
 1. Run the program.

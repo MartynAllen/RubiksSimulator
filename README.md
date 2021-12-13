@@ -4,8 +4,9 @@ A basic move simulator in Python3.
 # How to build the simulator
 
 1. Clone the GitHub repository either online or through command line.
-2. Over HTTPS: $ git clone https://github.com/MartynAllen/RubiksSimulator.git
-3. Over SSH
+2. Over HTTPS: **$ git clone https://github.com/MartynAllen/RubiksSimulator.git**
+3. On Windows: Navigate the terminal to the file of path of the cloned repository from step 2, then run using **py RubiksSimulator.py**
+4. On Mac: Navigate to the file path of the respository and type the following in the terminal: **python3 RubiksSimulator.py**
 
 # How to use the simulator
 
